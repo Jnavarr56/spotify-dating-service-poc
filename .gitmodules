@@ -1,3 +1,6 @@
 [submodule "ui"]
 	path = ui
 	url = git@github.com:Jnavarr56/spotify-dating-service-poc-ui.git
+[submodule "nginx"]
+	path = nginx
+	url = git@github.com:Jnavarr56/spotify-dating-service-poc-nginx.git
